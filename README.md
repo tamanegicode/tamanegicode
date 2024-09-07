@@ -4,6 +4,7 @@
 - 📈 I currently work at Virtual Campus Lda, where I develop serious games for a wide range of audiences.
 - 👨‍🎓 I have a Bachelor's Degree in Game Development and a Master's Degree in Computer Engineering.
 - 🌱 Recently I've enjoyed learning more about making games using Unreal Engine on my free time.
+- 🐱‍🐉 Peep my hijinks on <a href="https://tamanegicode.itch.io/"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-blue?style=plastic&logo=itchdotio"/></a>
 - 📧 You can contact me on <a href="https://www.linkedin.com/in/pedrofnbessa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
 
 ## 🛠 Tools and Languages
